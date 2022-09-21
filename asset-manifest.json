@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-App-CSW/static/css/main.5c8b8597.css",
+    "main.js": "/React-App-CSW/static/js/main.36df2e7b.js",
+    "static/js/787.0c3f432a.chunk.js": "/React-App-CSW/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/React-App-CSW/index.html",
+    "static/media/slick.svg": "/React-App-CSW/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-App-CSW/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-App-CSW/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-App-CSW/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/left-arrow.svg": "/React-App-CSW/static/media/left-arrow.da21225bcf530088451874c9e21c215a.svg",
+    "static/media/right-arrow.svg": "/React-App-CSW/static/media/right-arrow.d19ce8f87764b5901ed2ca6f0ff22d03.svg",
+    "main.5c8b8597.css.map": "/React-App-CSW/static/css/main.5c8b8597.css.map",
+    "main.36df2e7b.js.map": "/React-App-CSW/static/js/main.36df2e7b.js.map",
+    "787.0c3f432a.chunk.js.map": "/React-App-CSW/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c8b8597.css",
+    "static/js/main.36df2e7b.js"
+  ]
+}
